@@ -1,0 +1,9 @@
+myproject\config\WebAppInitializer.class
+myproject\dao\UserDao.class
+myproject\dao\UserDaoImpl.class
+myproject\service\UserServiceImpl.class
+myproject\controller\HomeController.class
+myproject\model\User.class
+myproject\config\HibernateConfiguration.class
+myproject\config\WebConfig.class
+myproject\service\UserService.class
